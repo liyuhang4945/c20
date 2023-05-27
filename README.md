@@ -1,8 +1,8 @@
 PROject BASE on c20
 
+# IDE
 
-
-
+visual studio 2022
 
 # ADDressBook
 
