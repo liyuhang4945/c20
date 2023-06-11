@@ -1,8 +1,8 @@
 #pragma once 
 #include<iostream>
 using namespace std;
-
 #include"identity.h"
+
 class Manager
 	:public Identity
 {
